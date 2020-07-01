@@ -2,11 +2,16 @@ Holaaaaaaaa
   
 <html>
 <head>
-<title> Majon </title>
+
+<title>Majon</title>
+  
 <head>
 
 <body>
 <h1> Hola prueba </h1>
 
+<script>
+  console.log("Hola");  
+</script>
 </body>
 </html>
