@@ -8,7 +8,8 @@ Holaaaaaaaa
 <head>
 
 <body>
-<h1> Hola prueba </h1>
+
+<h1> Hola prueba 1 </h1>
 
 <h1> Hola prueba </h1>
 
@@ -17,6 +18,8 @@ Holaaaaaaaa
 console.log("Hola");  
 
 </script\>
+
+<script type="text/javascript" src="./index.js" \></script\>
 
 </body>
 </html>
