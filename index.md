@@ -11,7 +11,7 @@ Holaaaaaaaa
 
 <h1> Hola prueba 1 </h1>
 
-<h1> Hola prueba </h1>
+<h2> Hola prueba 2 </h2>
 
 <script\>
   
